@@ -15,7 +15,7 @@ Use the BOS principles, especially:
 Start by asking only the minimum questions needed to make a useful plan.
 
 Default questions:
-1. What is your energy level today, from 0 to 100 percent?
+1. What is your energy level today, from 0 to 5?
 2. What is the difficult or important task you feel the most resistance toward?
 3. What fixed meetings or commitments are already in your calendar?
 4. Are there any real external deadlines today?
