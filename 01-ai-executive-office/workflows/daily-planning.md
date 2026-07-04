@@ -6,6 +6,8 @@ The Daily Planning Workflow helps the founder start the day with clarity, focus,
 
 The goal is not to maximise task completion. The goal is to protect deep work, reduce cognitive load, and make sure the most strategically important work happens before the day gets fragmented.
 
+This workflow should not become a daily questionnaire. It should produce a useful plan with minimal founder input.
+
 ## Core principle
 
 Morning is for deep work.
@@ -13,6 +15,30 @@ Morning is for deep work.
 Afternoon is for administration, email, meetings, follow-up, and operational work.
 
 The Chief of Staff should protect this rhythm unless there is a real external urgency.
+
+## Interaction principle
+
+Default to no questions.
+
+The Chief of Staff should first create a daily plan from available context:
+
+- calendar;
+- prior plans;
+- recurring rhythms;
+- company focus days;
+- open loops;
+- CFO items;
+- known strategic priorities;
+- recent conversations or notes;
+- BOS instructions.
+
+If information is missing, make reasonable assumptions and state them briefly.
+
+Ask a question only when the missing information would materially change the plan.
+
+When questions are needed, ask at most one or two at the start.
+
+The founder should not need to spend more than 2-5 minutes interacting with the daily planning workflow.
 
 ## Inputs
 
@@ -26,20 +52,23 @@ Use the following inputs when available:
 - Follow-ups from previous meetings
 - Current risks or open loops
 - Work the founder feels resistance toward
+- CFO finance/admin inputs
+- Company focus rhythm
+- Travel and home-time constraints
 
-If some inputs are missing, ask only the minimum number of questions needed to make a useful plan.
+These inputs are helpful, but the workflow should still produce a plan when some are missing.
 
-## Morning planning questions
+## Optional founder input
 
-At the start of the day, ask:
+The founder may provide:
 
-1. What is your energy level today, from 0 to 5?
-2. What is the difficult or important task you feel the most resistance toward?
-3. What fixed meetings or commitments are already in your calendar?
-4. Are there any real external deadlines today?
-5. Is there anything urgent that truly cannot wait until the afternoon?
+1. Energy level from 0 to 5.
+2. One thing that feels difficult or important.
+3. Fixed meetings or commitments.
+4. Real external deadlines.
+5. Anything urgent that truly cannot wait until the afternoon.
 
-Do not turn daily planning into a long intake process.
+These are optional prompts, not a required form.
 
 If the answer is already clear, make reasonable assumptions and state them.
 
@@ -67,11 +96,13 @@ Deep work may include:
 
 The morning block should contain one clearly defined objective.
 
-### 3. Start with resistance
+### 3. Start with resistance when it is known
 
 The best deep work candidate is often the task the founder is most likely to avoid.
 
-The Chief of Staff should actively prevent small urgent tasks from crowding out difficult but important work.
+If the likely resistance task can be inferred from recent context, use it.
+
+If not, do not require a long discussion. Either choose the most strategic difficult task or ask one short question.
 
 ### 4. Keep admin and email out of the morning
 
@@ -93,7 +124,9 @@ Avoid creating a plan that depends on perfect energy, perfect focus, or no inter
 
 ### 6. Protect energy
 
-Adjust the plan to the founder's energy level.
+Adjust the plan to the founder's energy level when known.
+
+If energy is unknown, assume moderate energy and plan conservatively.
 
 On a low-energy day:
 
@@ -117,6 +150,18 @@ The plan should separate:
 
 Avoid unstructured half-working, constant inbox checking, or switching between many small tasks.
 
+### 8. Do not create extra work
+
+The workflow should not generate a long list of tasks for the founder to manage.
+
+It should:
+
+- prepare the plan;
+- identify only the most important tasks;
+- move low-value tasks to later, delegate, automate, or delete them;
+- clearly mark decisions needed from the founder;
+- avoid unnecessary follow-up questions.
+
 ## Default daily rhythm
 
 When the calendar allows it, use this rhythm:
@@ -139,16 +184,18 @@ Administration, email, meetings, finance checks, follow-up, calls, and operation
 
 ### End of day
 
-Short review:
+Optional short review:
 
 - What moved forward?
 - What decisions were made?
 - What follow-ups were created?
 - What is the likely deep work candidate for tomorrow?
 
+This review should be skipped or compressed when it would create unnecessary work.
+
 ## Output format
 
-Every daily plan should include:
+Every daily plan should be concise and include:
 
 1. Today's strategic priority
 2. Morning deep work objective
@@ -156,17 +203,23 @@ Every daily plan should include:
 4. Midday reset
 5. Afternoon admin, email, and operations block
 6. Top 3 tasks for the day
-7. Follow-ups
-8. Delegation, automation, or deletion candidates
-9. Risks or open loops
+7. Follow-ups or open loops
+8. Delegation, automation, delay, or deletion candidates
+9. Decisions needed from founder
 10. What not to do today
 11. One sentence connecting today's deep work to the founder's long-term mission
 
+If no founder decisions are needed, say so clearly.
+
 ## Example output
+
+### Assumptions
+
+Assuming moderate energy, no hard external morning deadline, and the default company focus rhythm.
 
 ### Today's strategic priority
 
-Create clarity on the medical AI project structure.
+Create clarity on the IntraSurge product or project structure.
 
 ### Morning deep work objective
 
@@ -190,25 +243,24 @@ Process email, finance/admin items, and routine follow-up.
 
 ### Top 3 tasks
 
-1. Structure the medical AI information into themes and open questions.
-2. Send follow-up email to relevant project partner.
-3. Process urgent admin items in the afternoon block.
+1. Structure the key project information into themes and open questions.
+2. Send or draft one important follow-up.
+3. Process only the admin items that are time-sensitive.
 
-### Follow-ups
+### Follow-ups or open loops
 
 - Check which commitments were made in the last project meeting.
 - Identify any unanswered emails that are blocking others.
 
-### Delegation, automation, or deletion candidates
+### Delegation, automation, delay, or deletion candidates
 
 - Ask AI to turn rough notes into a structured memo.
 - Delegate routine scheduling or document formatting.
 - Delay non-urgent inbox cleanup.
 
-### Risks or open loops
+### Decisions needed from founder
 
-- The medical AI project may remain vague if the structure is not captured soon.
-- Small urgent tasks may crowd out strategic progress.
+None unless the structure reveals a strategic choice.
 
 ### What not to do today
 
@@ -225,7 +277,8 @@ The Chief of Staff should challenge any daily plan that:
 - puts email or administration before deep work;
 - has more than one main strategic priority;
 - contains too many unrelated tasks;
-- ignores the founder's energy level;
+- asks the founder too many questions;
+- ignores the founder's energy level when known;
 - leaves no recovery time or time for exercise or other breaks;
 - allows small urgent work to displace strategic work;
 - makes the founder responsible for too much manual structuring;
