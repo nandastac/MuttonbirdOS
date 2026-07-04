@@ -6,21 +6,48 @@ The Weekly Planning Workflow helps the founder close the week, regain overview, 
 
 This workflow should usually run on Friday.
 
-The goal is not to create a packed schedule. The goal is to choose what matters, protect deep work, identify risks and open loops, and prevent the founder from carrying too much unstructured information into the next week.
+The goal is not to create a packed schedule or a long review meeting. The goal is to prepare a useful first-draft weekly plan, choose what matters, protect deep work, identify risks and open loops, and prevent the founder from carrying too much unstructured information into the next week.
 
 ## Core principle
 
 Friday is for review, reset, and next-week design.
 
-The Chief of Staff should help the founder:
+The Chief of Staff should do the preparation first and minimise founder interaction.
 
-- review what moved forward;
-- identify what is still open;
-- decide what matters most next week;
+The Chief of Staff should:
+
+- review available context;
+- infer what moved forward and what is still open where possible;
+- decide what likely matters most next week;
 - protect deep work blocks;
 - move admin, email, finance, and follow-up into defined blocks;
 - identify what should be delegated, automated, delayed, or deleted;
-- design a week that is strategically useful and physically sustainable.
+- design a week that is strategically useful and physically sustainable;
+- ask the founder only for decisions, conflicts, or missing information that materially affects the plan.
+
+## Interaction principle
+
+Default to no questions before producing a first draft.
+
+Use available information first:
+
+- calendar from the past week;
+- calendar for next week;
+- prior plans;
+- recurring rhythms;
+- company focus days;
+- open loops;
+- CFO inputs;
+- recent conversations or notes;
+- BOS instructions.
+
+If information is missing, make reasonable assumptions and state them briefly.
+
+Ask questions only when the missing information would materially change the plan.
+
+When questions are needed, batch them into a short section called `Founder input needed`.
+
+Weekly planning interaction should usually take 10-15 minutes or less.
 
 ## Default weekly company focus
 
@@ -51,7 +78,7 @@ Default rules:
 
 The Chief of Staff should actively flag plans that violate these constraints.
 
-If a week requires more than one late evening, or multiple early travel starts, the Chief of Staff should explicitly ask whether this is worth the cost to energy, recovery, and focus.
+If a week requires more than one late evening, or multiple early travel starts, the Chief of Staff should explicitly state the cost and propose alternatives before asking for founder approval.
 
 ## Inputs
 
@@ -71,40 +98,37 @@ Use the following inputs when available:
 - Company focus days
 - CFO finance/admin items
 
-If some inputs are missing, ask only the minimum number of questions needed.
+These inputs are helpful, but the workflow should still produce a first-draft weekly plan when some are missing.
 
-## Friday review questions
+## Optional founder input
 
-Ask:
+The founder may provide:
 
-1. What moved forward this week?
-2. What did not move forward but should have?
-3. What commitments or follow-ups are still open?
-4. What felt draining or chaotic?
-5. What gave energy?
-6. What is the single most important strategic priority for next week?
-7. Which deep work blocks should be protected next week?
-8. Are there any finance, admin, legal, medical, defence, or compliance deadlines next week?
-9. What should be delegated, automated, delayed, or deleted?
-10. Does next week's plan respect the company focus days?
-11. Are there any travel days before 09:00?
-12. Are there any evenings later than 17:00?
-13. Does Monday allow the founder to be home by 17:00?
-14. Are finance/admin tasks coordinated with the AI CFO?
+1. What moved forward this week.
+2. What felt chaotic, draining, or blocked.
+3. The most important strategic priority for next week.
+4. Any hard deadlines or fixed commitments.
+5. Any travel or evening constraints.
 
-Do not turn the weekly review into a long reporting exercise.
-
-If enough information is already available, make reasonable assumptions and state them.
+These are optional inputs, not a required weekly form.
 
 ## Planning rules
 
-### 1. Choose one main priority for next week
+### 1. Produce a first-draft plan before asking for input
+
+The Chief of Staff should prepare a useful weekly plan first.
+
+Only after the first draft should it ask for confirmation or missing decisions when needed.
+
+### 2. Choose one main priority for next week
 
 Every week should have one main strategic priority.
 
 There may be multiple workstreams, but the Chief of Staff should make clear which one matters most.
 
-### 2. Respect company focus days
+If the priority is unclear, infer the most likely priority from recent context and label it as an assumption.
+
+### 3. Respect company focus days
 
 The Chief of Staff should use the default company focus rhythm when designing the week:
 
@@ -114,17 +138,17 @@ The Chief of Staff should use the default company focus rhythm when designing th
 
 The goal is not rigid scheduling. The goal is to reduce context switching and make sure each important company receives protected attention.
 
-### 3. Protect deep work before the week fills up
+### 4. Protect deep work before the week fills up
 
 The Chief of Staff should identify and protect deep work blocks for the coming week.
 
 Deep work blocks should ideally be scheduled in the morning.
 
-### 4. Separate deep work from admin
+### 5. Separate deep work from admin
 
 Admin, email, finance, routine follow-up, and operational work should be batched into specific blocks, preferably in the afternoon.
 
-### 5. Coordinate finance/admin with the AI CFO
+### 6. Coordinate finance/admin with the AI CFO
 
 The Chief of Staff should coordinate with the AI CFO when planning the week.
 
@@ -142,7 +166,7 @@ The Chief of Staff should place this work into the weekly plan, preferably in af
 
 Finance/admin work should not interrupt morning deep work unless there is a real deadline, financial risk, compliance issue, or blocked stakeholder.
 
-### 6. Respect travel and home-time constraints
+### 7. Respect travel and home-time constraints
 
 The Chief of Staff should check whether the weekly plan respects:
 
@@ -153,9 +177,9 @@ The Chief of Staff should check whether the weekly plan respects:
 
 If these constraints are violated, the Chief of Staff should flag the issue and suggest alternatives.
 
-### 7. Close open loops
+### 8. Close open loops without making the founder list them manually
 
-The weekly review should identify:
+The weekly review should identify likely open loops from available information:
 
 - unanswered emails;
 - promises made;
@@ -164,7 +188,9 @@ The weekly review should identify:
 - unclear ownership;
 - risks without next actions.
 
-### 8. Reduce founder bottlenecks
+If an open loop cannot be resolved, assign the smallest next action.
+
+### 9. Reduce founder bottlenecks
 
 The Chief of Staff should explicitly identify where the founder is becoming the bottleneck.
 
@@ -177,31 +203,46 @@ For each bottleneck, propose one of:
 - decide now;
 - schedule deep work.
 
-### 9. Plan capacity realistically
+### 10. Plan capacity realistically
 
 The weekly plan should not assume perfect energy or uninterrupted availability.
 
 The Chief of Staff should leave buffer time.
 
+### 11. Do not create extra work
+
+The weekly plan should not create a long task list for the founder to manage.
+
+It should produce:
+
+- a concise overview;
+- a proposed schedule;
+- a small number of priorities;
+- a small number of decisions needed;
+- prepared follow-ups or drafts where possible.
+
 ## Output format
 
-Every weekly planning output should include:
+Every weekly planning output should be concise and include:
 
-1. Weekly review summary
-2. What moved forward
-3. What is still open
-4. Decisions needed
-5. Risks or open loops
-6. Founder bottlenecks
-7. Main strategic priority for next week
-8. Company focus by day
-9. Protected deep work blocks for next week
-10. Admin, email, finance, and follow-up blocks
-11. CFO coordination items
-12. Travel and home-time check
-13. Delegation, automation, delay, or deletion candidates
-14. What not to take on next week
-15. One sentence connecting next week's priority to the founder's long-term mission
+1. Assumptions used
+2. Weekly review summary
+3. What moved forward
+4. What is still open
+5. Decisions needed from founder
+6. Risks or open loops
+7. Founder bottlenecks
+8. Main strategic priority for next week
+9. Company focus by day
+10. Protected deep work blocks for next week
+11. Admin, email, finance, and follow-up blocks
+12. CFO coordination items
+13. Travel and home-time check
+14. Delegation, automation, delay, or deletion candidates
+15. What not to take on next week
+16. One sentence connecting next week's priority to the founder's long-term mission
+
+If no founder decisions are needed, say so clearly.
 
 ## Default weekly rhythm
 
@@ -215,6 +256,10 @@ When possible:
 - Monday morning of the new week: first protected deep work block
 
 ## Example output
+
+### Assumptions used
+
+Assuming the default company focus rhythm, no more than one late evening, and no travel before 09:00 except one approved early start.
 
 ### Weekly review summary
 
@@ -256,6 +301,10 @@ Create clarity and momentum for IntraSurge.
 - No more than one evening later than 17:00 this week.
 - Avoid travel before 09:00 except on one approved early-start day.
 
+### Decisions needed from founder
+
+None, unless a late evening or major priority conflict appears in the calendar.
+
 ### What not to take on next week
 
 Do not add extra evening commitments unless they directly support the main weekly priority.
@@ -280,7 +329,8 @@ The Chief of Staff should challenge a weekly plan that:
 - schedules Monday in a way that prevents the founder from being home by 17:00;
 - includes more than one late evening after 17:00 during the rest of the week;
 - schedules travel before 09:00 on multiple days;
-- fails to coordinate finance/admin work with the AI CFO.
+- fails to coordinate finance/admin work with the AI CFO;
+- asks the founder to reconstruct information that can be inferred or deferred.
 
 ## Escalation
 
