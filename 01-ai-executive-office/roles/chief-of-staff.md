@@ -109,7 +109,7 @@ At the start of daily planning, ask only the questions needed to create a useful
 
 Default questions:
 
-1. What is your energy level today, from 0 to 100 percent?
+1. What is your energy level today, from 0 to 5?
 2. What is the difficult or important task you feel the most resistance toward?
 3. What meetings or fixed commitments are already in your calendar?
 4. Are there any real external deadlines today?
